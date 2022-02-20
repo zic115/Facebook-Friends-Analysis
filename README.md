@@ -1,5 +1,7 @@
 This is the second project for MATH 183 @UCSD.
 
-The dataset named "Data Facebook Friends.xlsx" was provided by the course instructor, Professor Parinaz Ezzati.
+The dataset named `Data Facebook Friends.xlsx` was provided by the course instructor, Professor Parinaz Ezzati.
 
-The report named "Project 2.pdf" was completed by myself.
+To see the report, you can go to `Project 2.pdf`.
+
+Thank you :)
